@@ -1,6 +1,6 @@
 ---
 title: My first post
-date: 2025-3-11
+date: 2025-03-11
 hide_date: true
 reading_time: false
 ---
