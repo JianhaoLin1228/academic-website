@@ -23,3 +23,6 @@ main:
   - name: News
     url: news/
     weight: 70
+  - name: Examples
+    url: examples/
+    weight: 80
