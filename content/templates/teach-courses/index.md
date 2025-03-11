@@ -6,7 +6,7 @@ math: true
 authors:
   - admin
 tags:
-  - examples
+  - Templates
   - 
   - 
 image:

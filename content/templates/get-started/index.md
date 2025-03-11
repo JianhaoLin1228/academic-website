@@ -13,7 +13,7 @@ authors:
   - Ted
 
 tags:
-  - examples
+  - Templates
   - 
   - 
 ---

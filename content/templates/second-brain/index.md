@@ -5,7 +5,7 @@ date: 2023-10-26
 authors:
   - admin
 tags:
-  - examples
+  - Templates
   - 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'

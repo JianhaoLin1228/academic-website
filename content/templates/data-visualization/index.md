@@ -5,7 +5,7 @@ date: 2023-10-25
 authors:
   - admin
 tags:
-  - examples
+  - Templates
   - 
   - 
 image:
