@@ -41,7 +41,7 @@ profiles:
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: /workspaces/academic-website/static/uploads/resume.pdf
+    url: https://drive.google.com/file/d/16MIPTjw02HyA1diop7BuJ7meLVnxUptg/view?usp=drive_link
     label: Download my CV
   - icon: rss
     url: ./post/index.xml
