@@ -17,3 +17,9 @@ main:
   - name: Rublication
     url: publication/
     weight: 50
+  - name: Blog
+    url: blog/
+    weight: 60
+  - name: News
+    url: news/
+    weight: 70
