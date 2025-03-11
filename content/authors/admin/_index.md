@@ -54,6 +54,6 @@ highlight_name: true
 website: ""
 ---
 
-Jianhao Lin is a postgraduate researcher in ecology at Jinan University. Her research interests include
+Jianhao Lin is a postgraduate researcher in ecology at Jinan University. His research interests include
 theoretical ecology, community ecology, spatial ecology and eco-evolutionary dynamics. He leads the MetaIBM, which is
 a open-source project for developing tools in individual-based modelling of eco-evolutionary dynamics in metacommunity. 
