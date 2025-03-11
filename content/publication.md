@@ -1,26 +1,27 @@
 ---
-title: Uses
+title: Publication
 date: 2023-10-24
 hide_date: true
 reading_time: false
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
+## Peer-reviewed
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+- · Lin, Jian-Hao, Quan, Y. J., & Han, B. P. (2024). MetaIBM: A Python-based library for 
+individual-based modelling of eco-evolutionary dynamics in spatial-explicit metacommunities. 
+Ecological Modelling, 492, 110730. [pdf] (https://drive.google.com/file/d/19n52qjGCbdRPtQRDiW_8o5gY1FRGm0mO/view)
 
-## Website
+- · Liu, P., Xu, S., Lin, J.H., Li, H., Lin, Q., & Han, B. P. (2020). Urbanization increases biotic 
+homogenization of zooplankton communities in tropical reservoirs. Ecological Indicators, 110, 105899. 
 
-- [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/))
+## Unpeer-reviewed
 
-## Editor + Terminal
+- · Lin, Jian-Hao, Han, B. P., Urban, M. C. & De Meester, L. The role of dormant propagule 
+banks in shaping the eco-evolutionary dynamics of community assembly under the evolving 
+metacommunity framework. Submitted. [pdf] (https://drive.google.com/file/d/1S1sA3p3g6yv7jXIzUvmogdn7DGDI2-Hk/view)
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+- · Liu, P., Pan, J., Lin, J.H., Wen, Z., Huang, Q., Pajk, F., ... & Han, B. P. (2020). Temperature 
+niche difference and interspecific competition determine the parapatric distribution of two 
+congeneric species in Diaphanosoma. Preprint 
 
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts

@@ -14,7 +14,7 @@ main:
   - name: Research
     url: research/
     weight: 40
-  - name: Rublication
+  - name: Publication
     url: publication/
     weight: 50
   - name: Blog
