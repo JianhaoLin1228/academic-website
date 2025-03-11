@@ -1,6 +1,8 @@
 ---
-title: MetaIBM (Metacommunity Individual-based Modelling)
+title: MetaIBM
+ (Metacommunity Individual-based Modelling)
 date: 2023-10-24
+summary: A Python-based library for individual-based modelling of eco-evolutionary dynamics in spatial-explicit metacommunities 
 hide_date: true
 reading_time: false
 ---
