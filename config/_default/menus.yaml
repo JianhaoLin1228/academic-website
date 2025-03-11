@@ -8,8 +8,8 @@ main:
   - name: Topics
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Software
+    url: software/
     weight: 30
   - name: Research
     url: research/
