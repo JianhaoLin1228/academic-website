@@ -6,9 +6,9 @@ math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+  - examples
+  - 
+  - 
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
