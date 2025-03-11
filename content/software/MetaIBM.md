@@ -1,5 +1,5 @@
 ---
-title: MetaIBM
+title: MetaIBM (Metacommunity Individual-based Modelling)
 date: 2023-10-24
 hide_date: true
 reading_time: false
@@ -7,15 +7,7 @@ reading_time: false
 
 [MetaIBM](https://github.com/JianhaoLin1228/MetaIBM) is a open-source project for developing Python library for eco-evolutionary simulation in metacommunity. 
 
-[Users Mannual](https://drive.google.com/file/d/15wPct-Qa8YUENykN1O9zU_ORsazQDA7i/view) for MetaIBM
-
-# MetaIBM (Metacommunity Individual-based Modelling)
-## This is the formal released version.2.9.12 
-### a python-based library for building a Individual-based model in Community Ecology 
-#### metacommunity_IBM.py is the source code of the library (version.2.9.12).
-#### MetaIBM users mannual.docx is the user mannual of the library
-#### we also provided four examples of how to use to library to built a IBMs by the users
-#### Note that other versions of this library providing other advanced algorithms is also avaiable in the brance of the repository.
+This is the formal released version.2.9.12 with [Users Mannual](https://drive.google.com/file/d/15wPct-Qa8YUENykN1O9zU_ORsazQDA7i/view)
 
 ### Table of contents (Details in Users Mannual)
 #### 1.	INTRODUCTION	...... 2
