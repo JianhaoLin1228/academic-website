@@ -11,3 +11,9 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: research
+    url: content/research.md
+    weight: 40
+  - name: publication
+    url: content/publication.md
+    weight: 50
