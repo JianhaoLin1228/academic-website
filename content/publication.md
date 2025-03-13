@@ -6,7 +6,7 @@ reading_time: false
 ---
 
 <style>: 
-p {'text-align: justify; font-size: 0.8em;}
+p {font-size: 0.8em;}
 
 ## Peer-reviewed
 
