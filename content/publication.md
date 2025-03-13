@@ -3,10 +3,9 @@ title: Publication
 date: 2023-10-24
 hide_date: true
 reading_time: false
-fontsize: 12pt
 ---
 
-## Peer-reviewed
+### Peer-reviewed
 
 - <font size=3.5>Lin, Jian-Hao, Quan, Y. J., & Han, B. P. (2024). MetaIBM: A Python-based library for 
 individual-based modelling of eco-evolutionary dynamics in spatial-explicit metacommunities. 
@@ -15,7 +14,7 @@ Ecological Modelling, 492, 110730. [pdf](https://drive.google.com/file/d/19n52qj
 - <font size=3.5>Liu, P., Xu, S., Lin, J.H., Li, H., Lin, Q., & Han, B. P. (2020). Urbanization increases biotic 
 homogenization of zooplankton communities in tropical reservoirs. Ecological Indicators, 110, 105899. </font>
 
-## Non peer-reviewed
+### Non peer-reviewed
 
 - <font size=3.5>Lin, Jian-Hao, Han, B. P., Urban, M. C. & De Meester, L. The role of dormant propagule 
 banks in shaping the eco-evolutionary dynamics of community assembly under the evolving 
