@@ -3,10 +3,8 @@ title: Publication
 date: 2023-10-24
 hide_date: true
 reading_time: false
+fontsize: 12pt
 ---
-
-style: 'text-align: justify; font-size: 0.8em;'
-
 
 ## Peer-reviewed
 
