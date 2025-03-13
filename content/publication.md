@@ -8,9 +8,9 @@ fontsize: 12pt
 
 ## Peer-reviewed
 
-Lin, Jian-Hao, Quan, Y. J., & Han, B. P. (2024). MetaIBM: A Python-based library for 
+- <font size=10>Lin, Jian-Hao, Quan, Y. J., & Han, B. P. (2024). MetaIBM: A Python-based library for 
 individual-based modelling of eco-evolutionary dynamics in spatial-explicit metacommunities. 
-Ecological Modelling, 492, 110730. [pdf](https://drive.google.com/file/d/19n52qjGCbdRPtQRDiW_8o5gY1FRGm0mO/view)
+Ecological Modelling, 492, 110730. [pdf](https://drive.google.com/file/d/19n52qjGCbdRPtQRDiW_8o5gY1FRGm0mO/view) </font>
 
 Liu, P., Xu, S., Lin, J.H., Li, H., Lin, Q., & Han, B. P. (2020). Urbanization increases biotic 
 homogenization of zooplankton communities in tropical reservoirs. Ecological Indicators, 110, 105899. 
