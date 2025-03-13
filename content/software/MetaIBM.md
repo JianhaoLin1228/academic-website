@@ -13,6 +13,7 @@ This is the formal released version.2.9.12 with [Users Mannual](https://drive.go
 ---
 ---
 
+<font size=3.5>
 ### Table of contents (Details in Users Mannual)
 #### 1.	INTRODUCTION	...... 2
 #### 2.	INSTALLATION	...... 3
@@ -66,6 +67,7 @@ This is the formal released version.2.9.12 with [Users Mannual](https://drive.go
 ##### 7.2 EXAMPLES OF PARALLEL-COMPUTING	...... 44
 #### 8.REFERENCES	...... 45
 #### 9.ACKNOWLEDGEMENTS	...... 46
+</font>
 
 
 
