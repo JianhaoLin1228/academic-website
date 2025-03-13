@@ -10,6 +10,9 @@ reading_time: false
 
 This is the formal released version.2.9.12 with [Users Mannual](https://drive.google.com/file/d/15wPct-Qa8YUENykN1O9zU_ORsazQDA7i/view)
 
+---
+---
+
 ### Table of contents (Details in Users Mannual)
 #### 1.	INTRODUCTION	...... 2
 #### 2.	INSTALLATION	...... 3
