@@ -5,7 +5,8 @@ hide_date: true
 reading_time: false
 ---
 
-style: 'text-align: justify; font-size: 0.8em
+<style>: 
+p {'text-align: justify; font-size: 0.8em;}
 
 ## Peer-reviewed
 
