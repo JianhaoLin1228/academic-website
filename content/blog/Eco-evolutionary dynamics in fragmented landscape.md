@@ -17,7 +17,7 @@ From: [reviews article](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.
 - Fragmentation influences eco-evo outcomes
 
   1. Affects genetic variation
-  1. Affects most evolutionary forces (such as the force of drift, selection, and gene flow)
+  2. Affects most evolutionary forces (such as the force of drift, selection, and gene flow)
 
 - Phenotypic traits changes: traits related to mating systems, competitive skills, movement abilities, or habitat use
 
