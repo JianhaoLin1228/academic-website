@@ -5,7 +5,7 @@ summary: Notes on a review about eco-evolutionary dynamics in fragmented landsca
 hide_date: true
 reading_time: false
 ---
-
+<font size=3.5>
 From: [reviews article](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.02537) 
 
 - Fragmentation impacts all biological levels 
@@ -162,7 +162,7 @@ The outcome of individual or species competition may be different throughout the
 - The evolution of increased dispersal, in turn, increases functional connectivity, implying that patch isolation will decrease (evo → eco).
 - In a metacommunity, some interacting species may persist only because of heterogeneity among species in dispersal rates (e.g. **colonization competition tradeoffs**), and evolutionary shifts in dispersal  can alter the likelihood of species coexistence. 
 
-
+</font>
 
 
 
