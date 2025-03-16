@@ -1,4 +1,10 @@
-# Eco-evolutionary dynamics in fragmented landscape
+---
+title: Eco-evolutionary dynamics in fragmented landscape
+date: 2023-03-16
+summary: Notes on a review about eco-evolutionary dynamics in fragmented landscape
+hide_date: true
+reading_time: false
+---
 
 From: [reviews article](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.02537) 
 
