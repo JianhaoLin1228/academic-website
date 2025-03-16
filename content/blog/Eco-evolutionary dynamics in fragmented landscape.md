@@ -5,14 +5,14 @@ summary: Notes on a review about eco-evolutionary dynamics in fragmented landsca
 hide_date: true
 reading_time: false
 ---
-<font size=3.5>
+<font size=3>
 
 # Eco-evolutionary dynamics in fragmented landscape
 From: [reviews article](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.02537) 
 
 - Fragmentation impacts all biological levels 
 
-  Habitat loss, increase patches‘ number, decrease patches size, increase patches’ isolation
+- Habitat loss, increase patches‘ number, decrease patches size, increase patches’ isolation
 
 - Fragmentation influences eco-evo outcomes
 
